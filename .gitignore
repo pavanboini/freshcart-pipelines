@@ -1,0 +1,23 @@
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Machine Learning generated files
+*.pkl
+*.joblib
+*.csv
+
+# Mage logs
+mage.log
+
+# Testing cache
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
